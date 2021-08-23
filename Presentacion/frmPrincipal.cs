@@ -7,17 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-<<<<<<< HEAD
-<<<<<<< HEAD
-//comentario de damian 
-=======
-//Comentario de Stephan
->>>>>>> 6502952c628d408eafc584e9f57e67432d99e55b
-=======
 
+//comentario de damian 
 //Comentario de Stephan
->>>>>>> 940769b997fe7faa5738d4818c64444fba21cb13
->>>>>>> b1ce82df1bf731b79b1b07bf325cbf2fc9d6116d
+//Comentario de Stephan
+
 namespace MiPrimerProyecto
 {
     public partial class frmPrin : Form
@@ -33,13 +27,7 @@ namespace MiPrimerProyecto
         }
     }
 }
-<<<<<<< HEAD
 //comentario de damian
-=======
-
-
-
-
 // comentario de Nicolas
 
->>>>>>> b1ce82df1bf731b79b1b07bf325cbf2fc9d6116d
+
