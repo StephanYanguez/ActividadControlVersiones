@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-//Comentario de Gonzalo Casas
+//Comentario de Stephan
 namespace MiPrimerProyecto
 {
     public partial class frmPrin : Form
